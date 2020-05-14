@@ -1,0 +1,17 @@
+ul {
+    border: 1px solid black;
+    box-shadow: 6px 6px 5px gray;
+    width: 200px;
+    font-weight: bold;
+  }
+  
+li{
+    list-style-type: none;
+    text-decoration: solid;
+    border: 1px solid rgb(67, 156, 230);
+}
+
+.first-li{
+    color: rgb(240, 122, 234);
+    text-transform: uppercase;
+  }
