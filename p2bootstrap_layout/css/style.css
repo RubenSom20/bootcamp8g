@@ -1,0 +1,53 @@
+header{
+    background-color: aqua;
+    border-color: pink;
+    border-style: solid;
+    width: 90%;
+    margin: auto;
+    height: 95px; 
+}
+
+nav{
+    background-color: rgba(224, 5, 170, 0.938);
+    align-items: center;
+    width: 90%;
+    margin: auto;
+    margin-top: 48px;
+    height: 25px;
+}
+
+section{
+    background-color: royalblue;
+    border-color: black;
+    border-style: solid;
+    width: 63%;
+    height: 550px;
+    display: inline-block;
+    margin: 15px 65px 15px;
+}
+
+article{
+    background-color: rgb(231, 147, 175);
+    margin: 50px 10px;
+    height: 110px;
+}
+
+aside{
+    background-color: palevioletred;
+    border-color: black;
+    border-style: solid;
+    width: 25%;
+    display: inline-block;
+    height: 550px;
+    margin: 15px -50px 70px;
+    position: absolute;
+}
+
+footer{
+    background-color: rgb(204, 169, 240);
+    border-color: rgb(60, 0, 128);
+    border-style: solid;
+    width: 90%;
+    height: 50px;
+    margin: auto;
+}

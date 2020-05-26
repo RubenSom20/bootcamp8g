@@ -1,0 +1,32 @@
+.square-wrapper{
+    width: 200;
+    height: 200;
+    transition: all 1s ease;
+}
+
+.square.yellow - square{
+    background: yellow;
+}
+
+.square.blue - square{
+    background: blue;
+}
+
+.square.grey - square{
+    background: grey;
+}
+.square.pink - square{
+    background: pink;
+}
+
+@media only screen and (min-width : 520){
+
+}
+
+@media only screen and (min-width : 768){
+    
+}
+
+@media only screen and (min-width : 1024){
+    
+}
