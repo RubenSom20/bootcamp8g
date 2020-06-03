@@ -51,5 +51,5 @@
                 if( dividendo % pimeNumbers[i] === 0){
                     return pimeNumbers[i]
                 }
-            }
+            } 
         }
