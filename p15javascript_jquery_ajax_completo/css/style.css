@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: lightgray;
+}
+
+.shadow{
+    box-shadow: 1px, 1px, 1px rgb(71, 67, 67);
+}
